@@ -4,5 +4,5 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-
+ <!-- add entity file -->
 </Project>
